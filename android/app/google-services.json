@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "1025777264011",
+    "firebase_url": "https://bestlogin-b1603.firebaseio.com",
+    "project_id": "bestlogin-b1603",
+    "storage_bucket": "bestlogin-b1603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025777264011:android:ae56d9512aa2a5c8bf3b8e",
+        "android_client_info": {
+          "package_name": "com.raitech.chatappusenow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHaUFxowj0k7rNFsYSnEIRcM8axNm2p1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025777264011-6cejli8uac41hupjo39rooorervnv8ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025777264011:android:715cf0e57f660b0dbf3b8e",
+        "android_client_info": {
+          "package_name": "com.raitechbestmvvmmovieapp.wallpaperappfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHaUFxowj0k7rNFsYSnEIRcM8axNm2p1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025777264011-6cejli8uac41hupjo39rooorervnv8ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025777264011:android:5dec2429ae08a26cbf3b8e",
+        "android_client_info": {
+          "package_name": "com.raitechbestvideocallingappusnowmaxseventeensix.usenow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHaUFxowj0k7rNFsYSnEIRcM8axNm2p1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025777264011-6cejli8uac41hupjo39rooorervnv8ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025777264011:android:c121a309316fb76bbf3b8e",
+        "android_client_info": {
+          "package_name": "com.ufony.facedetectionattandanceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHaUFxowj0k7rNFsYSnEIRcM8axNm2p1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025777264011-6cejli8uac41hupjo39rooorervnv8ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
